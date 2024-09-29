@@ -4,14 +4,14 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
 const projectData = [
-  {
-    imgPath: require("../../Assets/Projects/29.png"),
-    isBlog: false,
-    title: "Epic Caller : AI Voice Agent system",
-    role: 'AI & VoIP Engineer, RAG Agent Builder',
-    description: "Epic Caller aligns with the unique voice and values of your brand, offering a consistent and harmonious customer experience that reinforces your brand identity. \n Our AI adjusts to your desired tone and communication style, ensuring every interaction reflects your brand’s personality and resonates with your audience.",
-    demoLink: "https://epiccaller.ai/"
-  },
+  // {
+  //   imgPath: require("../../Assets/Projects/29.png"),
+  //   isBlog: false,
+  //   title: "Epic Caller : AI Voice Agent system",
+  //   role: 'AI & VoIP Engineer, RAG Agent Builder',
+  //   description: "Epic Caller aligns with the unique voice and values of your brand, offering a consistent and harmonious customer experience that reinforces your brand identity. \n Our AI adjusts to your desired tone and communication style, ensuring every interaction reflects your brand’s personality and resonates with your audience.",
+  //   demoLink: "https://epiccaller.ai/"
+  // },
   {
     imgPath: require("../../Assets/Projects/30.png"),
     isBlog: false,
