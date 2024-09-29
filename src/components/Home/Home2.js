@@ -19,8 +19,8 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Are you looking to automate your existing or new products using{" "}
-              <b className="purple">OpenAI</b>? 🤷‍♂️
+              Are you looking to automate your existing or new {" "}
+              <b className="purple">AI products</b>? 🤷‍♂️
               <br />
               <br />I specialize in developing web and mobile applications that
               harness the power of OpenAI to propel businesses forward and
