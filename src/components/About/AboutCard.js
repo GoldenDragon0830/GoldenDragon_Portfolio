@@ -8,12 +8,12 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">James Golden </span>
+            Hi Everyone, I am <span className="purple">Lech Parys </span>
             from <span className="purple"> Ontario, Canada.</span>
             <br />
-            I am currently employed as a open AI software Engineer. 
+            I am currently employed as an AI software Engineer. 
             <br />
-            I have completed several products, Web sites, Web Application, Mobile App for Android/iOS and AI products
+            I have completed several products, Web sites, Web Application, Mobile App for Android/iOS and AI products  
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -48,7 +48,7 @@ function AboutCard() {
           <p style={{ color: "rgb(155 126 172)" }}>
             " 𝐓𝐡𝐞 𝐩𝐞𝐨𝐩𝐥𝐞 𝐰𝐡𝐨 𝐚𝐫𝐞 𝐜𝐫𝐚𝐳𝐲 𝐞𝐧𝐨𝐮𝐠𝐡 𝐭𝐨 𝐭𝐡𝐢𝐧𝐤 𝐭𝐡𝐞𝐲 𝐜𝐚𝐧 𝐜𝐡𝐚𝐧𝐠𝐞 𝐭𝐡𝐞 𝐰𝐨𝐫𝐥𝐝 𝐚𝐫𝐞 𝐭𝐡𝐞 𝐨𝐧𝐞𝐬 𝐰𝐡𝐨 𝐝𝐨✍ 𝐈 💘 𝐭𝐡𝐢𝐬 𝐖𝐎𝐑𝐃!"{" "}
           </p>
-          <footer className="blockquote-footer">James Golden</footer>
+          {/* <footer className="blockquote-footer">James Golden</footer> */}
         </blockquote>
       </Card.Body>
     </Card>
